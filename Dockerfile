@@ -1,7 +1,7 @@
 FROM flyway/flyway:6.3
 
 USER root
-RUN apt update && apt install unzip
+RUN apt update -y && apt install unzip -y && apt install jq -y
 
 # Terraform 0.11
 ADD https://releases.hashicorp.com/terraform/0.11.14/terraform_0.11.14_linux_amd64.zip /usr/local/bin

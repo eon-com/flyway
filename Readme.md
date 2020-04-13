@@ -6,7 +6,7 @@
 
 # Supported tags and respective `Dockerfile` links
 
-[`flyway:0.1` `flyway:latest` (*Dockerfile*)](https://github.com/EON-COM/flyway/blob/master/Dockerfile)
+[`flyway:0.2` `flyway:latest` (*Dockerfile*)](https://github.com/EON-COM/flyway/blob/master/Dockerfile)
 
 
 # Quick reference
